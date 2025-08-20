@@ -14,12 +14,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielTeixeiraGuedes&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Byelziin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixeiraGuedes&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byelziin&layout=compact&theme=radical)
 
-![Snake animation](https://github.com/GabrielTeixeiraGuedes/GabrielTeixeiraGuedes/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Byelziin/Byelziin/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📬 Conecte-se comigo
