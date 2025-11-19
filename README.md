@@ -22,6 +22,8 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=byelziin&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=pt-br&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do Gabriel" />
+  <br/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20de%20contribui%C3%A7%C3%B5es&color=00BFFF&labelColor=0D1117&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fbyelziin.json" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byelziin&layout=compact&langs_count=10&locale=pt-br&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
