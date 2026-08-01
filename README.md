@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Prazer!+Sou+Gabriel+Teixeira+Guedes;Desenvolvedor+Full+Stack;Estudante+de+ADS;Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byelziin&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/byelziin)
+[![Gráfico de atividade do Gabriel no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=byelziin&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/byelziin)
 
 <div align="center">
   <img width="12%" src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" />
@@ -21,13 +21,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byelziin&show_icons=true&theme=dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=byelziin&show_icons=true&count_private=true&include_all_commits=true&hide=stars,contribs&locale=pt-br&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do Gabriel" />
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byelziin&layout=compact&langs_count=10&locale=pt-br&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas por Gabriel" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/byelziin?label=Seguidores&style=for-the-badge&color=00BFFF&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos%20p%C3%BAblicos&color=00BFFF&labelColor=0D1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbyelziin" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20de%20contribui%C3%B5es&color=00BFFF&labelColor=0D1117&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fbyelziin.json" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20de%20contribui%C3%A7%C3%B5es&color=00BFFF&labelColor=0D1117&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fbyelziin.json" />
 </div>
 
 ---
